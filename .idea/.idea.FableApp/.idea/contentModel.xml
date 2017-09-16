@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\vaski\AppData\Local\JetBrains\Transient\ReSharperHost\v10\SolutionCaches\_FableApp.633584158.00" t="ExcludeRecursive" />
+    <e p="E:\github\FableApp" t="IncludeFlat">
+      <e p="FableApp.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="src" t="IncludeRecursive">
+        <e p="App.fs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FableApp.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
